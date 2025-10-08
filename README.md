@@ -1,8 +1,10 @@
 <p align="center">
   <h1 align="center">Ecommerce Platform</h1>
-  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="Code-Igniter">
-  <img src="https://img.shields.io/badge/PHP-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <p align="center">
+    <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="Code-Igniter" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/PHP-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </p>
 </p>
 
 ---
@@ -15,12 +17,12 @@ A **full-featured E-commerce platform** built using **CodeIgniter 4**. It provid
 
 ## **Key Features**
 
-- Product catalog with categories
-- Shopping cart & checkout system
-- Payment gateway integration (Stripe/PayPal)
-- Order tracking for users
-- Admin panel for managing products, categories, and orders
-- Reports and analytics for sales and inventory
+- Product catalog with categories  
+- Shopping cart & checkout system  
+- Payment gateway integration (Stripe/PayPal)  
+- Order tracking for users  
+- Admin panel for managing products, categories, and orders  
+- Reports and analytics for sales and inventory  
 
 ---
 
